@@ -1,0 +1,10 @@
+digest: c7d8ee92
+name: dataset
+profile: '{"num_rows": 4459, "num_elements": 22295}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "char_count", "required": true},
+  {"type": "long", "name": "digit_count", "required": true}, {"type": "long", "name":
+  "exclamation_count", "required": true}, {"type": "long", "name": "dollar_count",
+  "required": true}, {"type": "double", "name": "sentiment", "required": true}]}'
+source: '{"tags": {"mlflow.user": "ibrahim", "mlflow.source.name": "/home/ibrahim/anaconda3/envs/science/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

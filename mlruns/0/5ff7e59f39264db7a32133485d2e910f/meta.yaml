@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/5ff7e59f39264db7a32133485d2e910f/artifacts
+end_time: 1729238948537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff7e59f39264db7a32133485d2e910f
+run_name: orderly-carp-186
+run_uuid: 5ff7e59f39264db7a32133485d2e910f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729238711140
+status: 4
+tags: []
+user_id: ibrahim

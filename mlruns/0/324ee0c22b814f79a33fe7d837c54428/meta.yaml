@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/324ee0c22b814f79a33fe7d837c54428/artifacts
+end_time: 1729240911537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 324ee0c22b814f79a33fe7d837c54428
+run_name: nimble-yak-599
+run_uuid: 324ee0c22b814f79a33fe7d837c54428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240874880
+status: 3
+tags: []
+user_id: ibrahim

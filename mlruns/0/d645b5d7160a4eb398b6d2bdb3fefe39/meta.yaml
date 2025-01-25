@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/d645b5d7160a4eb398b6d2bdb3fefe39/artifacts
+end_time: 1729237535664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d645b5d7160a4eb398b6d2bdb3fefe39
+run_name: skillful-deer-984
+run_uuid: d645b5d7160a4eb398b6d2bdb3fefe39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729237535655
+status: 4
+tags: []
+user_id: ibrahim

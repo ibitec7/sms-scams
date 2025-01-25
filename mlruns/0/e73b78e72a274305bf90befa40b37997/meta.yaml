@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/e73b78e72a274305bf90befa40b37997/artifacts
+end_time: 1729237571326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e73b78e72a274305bf90befa40b37997
+run_name: overjoyed-calf-245
+run_uuid: e73b78e72a274305bf90befa40b37997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729237571271
+status: 4
+tags: []
+user_id: ibrahim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/eff987f42c71411d81a262a3daeb5261/artifacts
+end_time: 1729237876808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff987f42c71411d81a262a3daeb5261
+run_name: big-bee-351
+run_uuid: eff987f42c71411d81a262a3daeb5261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729237868754
+status: 4
+tags: []
+user_id: ibrahim

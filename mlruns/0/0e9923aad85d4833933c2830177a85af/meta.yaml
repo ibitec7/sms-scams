@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/0e9923aad85d4833933c2830177a85af/artifacts
+end_time: 1729238498251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e9923aad85d4833933c2830177a85af
+run_name: languid-shad-124
+run_uuid: 0e9923aad85d4833933c2830177a85af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729238489740
+status: 4
+tags: []
+user_id: ibrahim

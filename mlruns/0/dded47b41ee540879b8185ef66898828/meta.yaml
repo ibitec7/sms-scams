@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/dded47b41ee540879b8185ef66898828/artifacts
+end_time: 1729865343042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dded47b41ee540879b8185ef66898828
+run_name: svc_model_tuning
+run_uuid: dded47b41ee540879b8185ef66898828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729865336651
+status: 4
+tags: []
+user_id: ibrahim

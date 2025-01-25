@@ -1,0 +1,1 @@
+{'n_neighbors': range(3, 16, 2), 'weights': ['uniform', 'distance'], 'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute'], 'n_jobs': range(2, 8, 2)}

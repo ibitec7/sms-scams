@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/01d90458872c4d1aa87dc32b627bba85/artifacts
+end_time: 1729237864732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01d90458872c4d1aa87dc32b627bba85
+run_name: unleashed-cow-681
+run_uuid: 01d90458872c4d1aa87dc32b627bba85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729237832702
+status: 4
+tags: []
+user_id: ibrahim

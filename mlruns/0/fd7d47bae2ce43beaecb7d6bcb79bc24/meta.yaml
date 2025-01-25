@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/fd7d47bae2ce43beaecb7d6bcb79bc24/artifacts
+end_time: 1729240403504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd7d47bae2ce43beaecb7d6bcb79bc24
+run_name: nervous-dog-786
+run_uuid: fd7d47bae2ce43beaecb7d6bcb79bc24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240189593
+status: 4
+tags: []
+user_id: ibrahim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/dc6ee879313846a095efa92ac55592f1/artifacts
+end_time: 1729240911537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc6ee879313846a095efa92ac55592f1
+run_name: adventurous-hare-292
+run_uuid: dc6ee879313846a095efa92ac55592f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240874880
+status: 3
+tags: []
+user_id: ibrahim

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/f0b2788166fe4025a07997e94d9b231a/artifacts
+end_time: 1729237656227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b2788166fe4025a07997e94d9b231a
+run_name: luxuriant-crab-898
+run_uuid: f0b2788166fe4025a07997e94d9b231a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729237592026
+status: 4
+tags: []
+user_id: ibrahim

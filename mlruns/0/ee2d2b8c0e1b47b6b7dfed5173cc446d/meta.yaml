@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/ee2d2b8c0e1b47b6b7dfed5173cc446d/artifacts
+end_time: 1729190809417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2d2b8c0e1b47b6b7dfed5173cc446d
+run_name: entertaining-owl-821
+run_uuid: ee2d2b8c0e1b47b6b7dfed5173cc446d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729190713002
+status: 4
+tags: []
+user_id: ibrahim

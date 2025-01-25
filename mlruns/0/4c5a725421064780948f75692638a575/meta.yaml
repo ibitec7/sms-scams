@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/4c5a725421064780948f75692638a575/artifacts
+end_time: 1729240911537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c5a725421064780948f75692638a575
+run_name: overjoyed-ox-457
+run_uuid: 4c5a725421064780948f75692638a575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240874880
+status: 3
+tags: []
+user_id: ibrahim

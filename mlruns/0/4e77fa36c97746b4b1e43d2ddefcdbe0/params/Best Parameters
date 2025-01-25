@@ -1,0 +1,1 @@
+{'algorithm': 'auto', 'n_jobs': 2, 'n_neighbors': 3, 'weights': 'distance'}

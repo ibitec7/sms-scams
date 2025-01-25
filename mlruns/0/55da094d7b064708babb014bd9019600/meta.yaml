@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/55da094d7b064708babb014bd9019600/artifacts
+end_time: 1729240825076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55da094d7b064708babb014bd9019600
+run_name: knn model
+run_uuid: 55da094d7b064708babb014bd9019600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729240602877
+status: 4
+tags: []
+user_id: ibrahim

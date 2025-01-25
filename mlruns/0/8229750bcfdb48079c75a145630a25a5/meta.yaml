@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/8229750bcfdb48079c75a145630a25a5/artifacts
+end_time: 1729238431703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8229750bcfdb48079c75a145630a25a5
+run_name: merciful-sheep-153
+run_uuid: 8229750bcfdb48079c75a145630a25a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729238431635
+status: 4
+tags: []
+user_id: ibrahim

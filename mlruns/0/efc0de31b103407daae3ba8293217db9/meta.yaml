@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim/uni/sdsc1001/mlruns/0/efc0de31b103407daae3ba8293217db9/artifacts
+end_time: 1729190372556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc0de31b103407daae3ba8293217db9
+run_name: enthused-roo-5
+run_uuid: efc0de31b103407daae3ba8293217db9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729190354676
+status: 4
+tags: []
+user_id: ibrahim
